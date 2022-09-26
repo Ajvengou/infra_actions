@@ -2,7 +2,7 @@ name: Django-app workflow
 
 on: [push]
 
-jobs:
+jobs:w
   tests:
     # «Раннер» — создание изолированного окружения с последней версией Ubuntu 
     runs-on: ubuntu-latest
